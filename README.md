@@ -1,1 +1,1 @@
-# nextjs-free
+# nextjs-basic
